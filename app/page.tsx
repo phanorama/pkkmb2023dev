@@ -1,5 +1,5 @@
 import 'next/link'
-import Navbar from './Header/navbar.tsx';
+import Navbar from './Header/Navbar/navbar.tsx';
 
 export default function Home() {
   return (

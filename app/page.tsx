@@ -1,5 +1,6 @@
 import 'next/link'
 import Navbar from './Header/Navbar/navbar.tsx';
+import Footer from './Footer/Footer.tsx';
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <h1 className="text-3xl font-bold underline">
         Hello world!asdasdasd
       </h1>
+      <Footer />
     </div>
   )
 }

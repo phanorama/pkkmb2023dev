@@ -1,3 +1,5 @@
+"use client";
+
 import '../style/globals.css'
 import type { Metadata } from 'next'
 

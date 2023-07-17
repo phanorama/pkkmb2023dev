@@ -3,14 +3,14 @@ import { Menu } from "@/types/menu";
 const menuData: Menu[] = [
   {
     id: 1,
-    title: "Penugasan",
-    path: "/penugasan",
+    title: "Beranda",
+    path: "/home",
     newTab: false,
   },
   {
     id: 2,
-    title: "Buku Panduan",
-    path: "/blog",
+    title: "Penugasan",
+    path: "/penugasan",
     newTab: true,
   },
   {

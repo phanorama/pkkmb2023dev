@@ -26,15 +26,15 @@ const menuData: Menu[] = [
     newTab: false,
   },
   {
-    id:5,
+    id: 5,
     title: "Info",
     path: "informasi",
     newTab: false,
   },
   {
-    id:6,
+    id: 6,
     title: "Virtual Tour",
     path: "virtual-tour",
     newTab: false,
-  }
+  },
 ];
